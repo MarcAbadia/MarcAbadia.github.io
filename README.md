@@ -1,5 +1,5 @@
 # Carpetas:
-##### [Sistemas](sistemas/processos)
+##### [Sistemas](sistemas)
 #### [Redes](redes)
 #### [Montaje](montaje)
 #### [Ofimàtica](ofimatica)
