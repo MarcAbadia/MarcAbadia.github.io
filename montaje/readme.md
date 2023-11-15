@@ -1,2 +1,2 @@
 # Montaje y mantenimiento
-[Foto](kernel-portada.jpg)
+![Foto](kernel-portada.jpg)
