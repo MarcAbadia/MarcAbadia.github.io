@@ -6,7 +6,7 @@ Este trabajo explorará los fundamentos y aspectos clave relacionados con la ges
 ## [1. Conceptos basicos](01_Conceptos_Basicos_de_Procesos.md)
 ## [2. Planificación](02_Planificacion_de _Procesos.md)
 ## [3. Estado](03_Estado_de_procesos.md)
-## [4. Sincronización y comunicación](04_Sincronizacion y Comunicacion_entre_Procesos.md)
+## [4. Sincronización y comunicación](04_Sincronizacion_y_Comunicacion_entre_Procesos.md)
 ## [5. Multiprocesamiento y Multitarea](05_Multiprocesamiento_y_Multitarea.md)
 ## [6. Gestión de memoria](06_Gestion_de_memoria.md)
 ## [7. Monitoreo y optimización](07_Monitoreo_y_Optimizacion_de_Procesos.md)
