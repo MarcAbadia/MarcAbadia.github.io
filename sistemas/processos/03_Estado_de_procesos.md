@@ -18,7 +18,7 @@ El proceso está utilizando activamente la CPU y ejecutando sus instrucciones. S
  Ocurre cuando la condición que bloqueaba el proceso se resuelve y vuelve a ser elegible para ejecutarse.
  ### Foto
  ![Alt text](foto_apuntes_procesos.png)
- ## 4.3 Ejemplos Prácticos
+## 4.3 Ejemplos Prácticos
  Ejemplos de situaciones que podrían llevar a transiciones de estados incluyen la interacción del usuario con una aplicación que realiza operaciones intensivas de CPU, la lectura o escritura de datos en un disco, o la espera de entrada del usuario.
 
 Comprender estos estados y transiciones es esencial para diseñar algoritmos de planificación eficientes y garantizar un uso óptimo de los recursos del sistema. En las secciones siguientes, exploraremos la sincronización y comunicación entre procesos, elementos cruciales para el funcionamiento fluido de los sistemas informáticos.
