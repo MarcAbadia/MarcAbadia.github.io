@@ -17,3 +17,4 @@ Existen varios métodos para que los procesos se comuniquen y compartan datos de
  Problemas como la condición de carrera, la inanición y el bloqueo mutuo pueden surgir en sistemas con múltiples procesos. Para abordar estos problemas, se utilizan técnicas como el uso de mutex (exclusión mutua), algoritmos de espera activa y el diseño cuidadoso de protocolos de comunicación.
 
 La sincronización y la comunicación efectivas son esenciales para garantizar la integridad de los datos compartidos y el funcionamiento coherente de los procesos en un sistema operativo. En los siguientes apartados, se explorarán conceptos más avanzados, como el multiprocesamiento y la multitarea.
+#### *[Volver](00_Introduccio.md)*

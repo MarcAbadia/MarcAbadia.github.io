@@ -15,3 +15,4 @@ Almacena información sobre el estado actual del proceso (ej. ejecutando, espera
 Área asignada para almacenar el código, datos y pila del proceso.
 ### Identificación del Proceso: 
 Número único que identifica cada proceso en el sistema operativo.
+#### *[Volver](00_Introduccio.md)*

@@ -22,3 +22,4 @@ El proceso está utilizando activamente la CPU y ejecutando sus instrucciones. S
  Ejemplos de situaciones que podrían llevar a transiciones de estados incluyen la interacción del usuario con una aplicación que realiza operaciones intensivas de CPU, la lectura o escritura de datos en un disco, o la espera de entrada del usuario.
 
 Comprender estos estados y transiciones es esencial para diseñar algoritmos de planificación eficientes y garantizar un uso óptimo de los recursos del sistema. En las secciones siguientes, exploraremos la sincronización y comunicación entre procesos, elementos cruciales para el funcionamiento fluido de los sistemas informáticos.
+#### *[Volver](00_Introduccio.md)*

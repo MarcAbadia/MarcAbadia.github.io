@@ -24,3 +24,4 @@ La memoria se asigna y libera durante la ejecución del programa. Facilita la ge
 Combina las ventajas de la paginación y la segmentación para abordar las limitaciones de cada enfoque.
 
 La gestión de memoria es esencial para evitar conflictos entre procesos y garantizar que cada uno tenga acceso a la cantidad necesaria de recursos. En los próximos apartados, se explorarán las estrategias de monitoreo y optimización de procesos, así como la importancia de la retroalimentación continua en la mejora de la gestión de procesos.
+#### *[Volver](00_Introduccio.md)*

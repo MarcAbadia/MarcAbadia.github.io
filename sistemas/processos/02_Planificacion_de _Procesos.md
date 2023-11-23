@@ -15,3 +15,4 @@ Asigna un tiempo fijo de CPU a cada proceso en secuencia. Equitativo, pero puede
 La elección del algoritmo de planificación depende de los objetivos específicos del sistema. Ventajas comunes incluyen una mayor eficiencia, menor tiempo de respuesta y mejor utilización de la CPU. Sin embargo, cada algoritmo también presenta desventajas potenciales, como la posibilidad de inanición o la variabilidad en los tiempos de espera.
 
 En el siguiente apartado, se explorarán los estados de los procesos y cómo la planificación influye en sus transiciones a lo largo de su ciclo de vida.
+#### *[Volver](00_Introduccio.md)*

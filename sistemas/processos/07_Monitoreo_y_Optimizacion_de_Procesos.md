@@ -24,3 +24,4 @@ Realizar análisis periódicos del rendimiento del sistema para identificar cuel
 Implementar actualizaciones de software y hardware según sea necesario para abordar las deficiencias identificadas.
 
 La retroalimentación continua a través del monitoreo y la optimización garantiza que el sistema se mantenga eficiente y se adapte a las cambiantes demandas de los usuarios y las aplicaciones. Con estas prácticas, los administradores de sistemas pueden mantener un sistema operativo robusto y capaz de proporcionar un rendimiento óptimo.
+#### *[Volver](00_Introduccio.md)*
