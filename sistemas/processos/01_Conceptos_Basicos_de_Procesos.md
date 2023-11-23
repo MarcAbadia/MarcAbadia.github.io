@@ -6,7 +6,7 @@ Un proceso en informática es la ejecución de un programa en un entorno de sist
 ## 1.2 Diferenciación entre Proceso y Programa
 Aunque a menudo se utilizan de manera intercambiable, es esencial comprender la diferencia entre un programa y un proceso. Un programa es un conjunto de instrucciones almacenadas en memoria, mientras que un proceso es la instancia activa de ejecución de ese programa, con su propio espacio de memoria y recursos asignados.
 ## 1.3 Componentes Esenciales de un Proceso
-Los procesos constan de componentes cruciales para su correcto funcionamiento. Estos incluyen:
+Los procesos constan de componentes cruciales para su correcto uso y funcionamiento. Estos incluyen:
 ### Program Counter (Contador de Programa): 
 Indica la posición actual de ejecución en el programa.
 ### Registro de Estado:
