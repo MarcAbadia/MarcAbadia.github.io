@@ -26,4 +26,5 @@ Todos los procesadores comparten la misma memoria y tienen acceso equitativo a l
  Desarrollar algoritmos y aplicaciones que puedan dividir tareas en partes más pequeñas que se ejecuten simultáneamente en varios procesadores.
  
  La implementación efectiva de multiprocesamiento y multitarea requiere una cuidadosa planificación y gestión de recursos para garantizar la estabilidad y el rendimiento del sistema. En los siguientes apartados, exploraremos la gestión de memoria, otro aspecto crítico en la optimización de sistemas operativos.
- #### *[Volver](00_Introduccio.md)*
+
+#### *[Volver](00_Introduccio.md)*
